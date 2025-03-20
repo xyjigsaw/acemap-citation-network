@@ -15,7 +15,7 @@ size_categories:
 - 1B<n<10B
 ---
 
-# AceMap Academic Graph Dataset
+# AceMap Citation Network Dataset
 
 ## Dataset Description
 The AceMap Academic Graph Dataset 20250228 is a large-scale academic citation network, containing **2,624,498,906 edges** and **264,675,127 nodes**. Each node represents an academic paper, and each edge indicates that one paper cites another. Each node can be linked to the [AceMap](https://acemap.info/) website for more detailed information.
