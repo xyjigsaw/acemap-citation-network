@@ -45,6 +45,11 @@ Here are some examples from the dataset:
 
 [https://huggingface.co/datasets/Reacubeth/acemap_citation_network](https://huggingface.co/datasets/Reacubeth/acemap_citation_network)
 
+```
+git lfs install
+git clone https://huggingface.co/datasets/Reacubeth/acemap_citation_network
+```
+
 ### 1. Unzip the `.tar.gz` Files
 Use the `tar` command to extract the contents of each `.tar.gz` file. For example, to extract all files to a directory named `data`, you can run the following commands:
 
