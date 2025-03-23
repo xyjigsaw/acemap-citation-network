@@ -67,7 +67,9 @@ This will extract the CSV files to the `data/` directory.
 Use Pandas or other data processing tools to load the CSV files. Here is an example of how to load and concatenate all CSV files into a single DataFrame:
 
 
-3. **Access AceMap Website**: For more detailed information about each paper, visit the [AceMap](https://acemap.info/) website by concatenating the following example strings:
+### 3. Access AceMap Website
+For more detailed information about each paper, visit the [AceMap](https://acemap.info/) website by concatenating the following example strings:
+
 ```python
 url = 'https://acemap.info/papers/' + 'ZEJBRkNDRTg3RDk'
 ```
